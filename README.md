@@ -22,7 +22,7 @@ Backend engineer focused on building software with Java and related technologies
 * Spring Boot
 * NestJS
 * Laravel
-* .Net
+* .NET
 
 ## Interests
 
@@ -30,5 +30,5 @@ Interested in software development, web technologies, and maybe game development
 
 ## Links
 
-* Instagram: hindreaming
-* Ko-fi: hindreaming
+* 📸 Instagram: [@hindreaming](https://instagram.com/hindreaming)
+* ☕ Ko-fi: [hindreaming](https://ko-fi.com/hindreaming)
